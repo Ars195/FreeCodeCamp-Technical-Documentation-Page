@@ -54,11 +54,30 @@ h1, h2 {
   color: inherit;
 }
 main {
-  margin-left: 31vw;
+  margin-left: 22vw;
   margin-right: 1vw;
 }
+main ol {
+  list-style: disc;
+}
+
+main li {
+  margin-top: 5px;
+}
+
 .main-section {
   text-align: justify;
+}
+
+code{
+  background-color: hsl(50, 90%, 96%);
+  display:block;
+  line-height: 2;
+  white-space: pre;
+  word-wrap: normal;
+  border-radius:5px;
+  padding: 5px;
+  padding-left: 10px;
 }
 @media(max-width: 810px) {
   #navbar {
