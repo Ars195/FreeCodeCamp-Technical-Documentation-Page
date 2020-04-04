@@ -96,3 +96,14 @@ code{
     margin-right: 1vw;
   }
 }
+@media(max-width: 500px) {
+  body {
+    font-size: 90%;
+  }
+}
+
+@media(max-width: 400px) {
+  body {
+    font-size: 80%;
+  }
+}
