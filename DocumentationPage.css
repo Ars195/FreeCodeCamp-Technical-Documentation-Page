@@ -17,3 +17,6 @@ h1, h2 {
   border-style: solid;
   border-width: 1px;
 }
+#navbar header {
+  text-align: center;
+}
