@@ -57,6 +57,9 @@ main {
   margin-left: 31vw;
   margin-right: 1vw;
 }
+.main-section {
+  text-align: justify;
+}
 @media(max-width: 810px) {
   #navbar {
     position: relative;
@@ -68,4 +71,9 @@ main {
     max-height: 35vh;
     width: 100%;
   }
- 
+ main {
+    margin: auto;
+    margin-left: 1vw;
+    margin-right: 1vw;
+  }
+}
