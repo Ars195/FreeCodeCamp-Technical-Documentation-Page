@@ -33,7 +33,7 @@ h1, h2 {
   text-align: center;
   padding-bottom: 22px;
   padding-top: : 5%;
-  
+
 }
 
 #nav-list li:hover {
@@ -52,6 +52,10 @@ h1, h2 {
 .nav-link {
   text-decoration: inherit;
   color: inherit;
+}
+main {
+  margin-left: 31vw;
+  margin-right: 1vw;
 }
 @media(max-width: 810px) {
   #navbar {
